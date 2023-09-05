@@ -1,4 +1,4 @@
 # apnacollege-demo
 my first git repository
 <br>
-Author- Shubham
+Author- Shubham (Apna College)
