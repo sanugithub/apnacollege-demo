@@ -3,6 +3,8 @@ my first git repository
 <br>
 Author- Shubham (Apna College)
 
-git config --global-> user level account
+user level account-> git config --global
 <br>
-git config --local-> project level account
+project level account-> git config --local
+<br>
+project level user unset-> git config --unset
