@@ -3,7 +3,7 @@ my first git repository
 <br>
 Author- Shubham (Apna College)
 
-why git config set up-> to record the commits from which git account commits done for all local repos(projects)
+why git config set up-> to record the commits from which git account commits done for any local repos(projects)
 <br>
 user level account-> git config --global
 <br>
